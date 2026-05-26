@@ -7,6 +7,7 @@ fila_atendimento = []
 # Use append() para adicionar ao final
 clientes = ["Ana", "Bruno", "Carla", "Daniel", "Elena"]
 # Sua solução aqui:
+# copie os clientes para a fila_atendimento em ordem de chegada:
 
 
 # 2. Atenda os 2 primeiros clientes (remova do início da fila)
